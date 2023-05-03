@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Bruno Ace";
+  src: url("../assets/fonts/BrunoAceSC-Regular.ttf") format("truetype");
+  font-style: normal;
+}
+h1 {
+  font-family: "Bruno Ace";
+  color: #12263A;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.article-hero {
+  background-image: url(../../assets/images/tropical-island-vector-26726621.png);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 110vh;
+  background-color: #12263A;
+}
+.article-hero__div {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 50%;
+  height: 45vh;
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=Hero.css.map */

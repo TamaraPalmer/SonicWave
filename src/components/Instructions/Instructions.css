@@ -1,0 +1,26 @@
+h2 {
+  text-align: center;
+  color: white;
+  font-family: "Bruno Ace";
+}
+
+.instructions {
+  display: flex;
+  flex-direction: column;
+  background-color: #12263A;
+}
+.instructions__all {
+  display: flex;
+  flex-direction: column;
+}
+.instructions__individual {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  margin: 1rem;
+}
+
+button {
+  padding: 1rem;
+}/*# sourceMappingURL=Instructions.css.map */
